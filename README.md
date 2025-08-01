@@ -139,6 +139,7 @@ streamlit              # Web framework
 PyPDF2                # PDF text extraction
 langchain             # AI workflow orchestration
 langchain-google-genai # Google AI integration
+langchain-community    # Community-supported LangChain integrations
 google-generativeai   # Google Gemini API
 faiss-cpu             # Vector similarity search
 python-dotenv         # Environment variable management
